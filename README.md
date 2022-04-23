@@ -13,3 +13,10 @@
   - ci（持续集成脚本相关变更）
   - build（代码构建相关变更：比如修复部署时的构建问题、构建脚本 webpack 或 gulp 相关变更）
   - temp（临时代码：不计入 CHANGELOG，比如必须部署到某种环境才能测试的变更。如测试真机上 transparent title 启动参数是否设置成功）
+
+
+### changeLog规范
+    *version 1.0*
+    *-feat xxxx*
+    *-fix xxxx*
+    *-docs xxxx*
