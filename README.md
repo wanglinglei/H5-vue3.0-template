@@ -16,7 +16,8 @@
 
 
 ### changeLog规范
-    *version 1.0*
+    *version 1.0 -yyyy/mm/dd*
     *-feat xxxx*
     *-fix xxxx*
     *-docs xxxx*
+    *-ci xxxx*
